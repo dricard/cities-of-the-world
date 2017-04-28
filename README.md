@@ -3,6 +3,7 @@
 This is a curated list of links about cities around the world.
 
 - [North America](north-america.md)
+- [Europe](europe.md)
 
 ## How to contribute
 
